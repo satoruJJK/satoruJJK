@@ -2,7 +2,7 @@
 - 👀 I’m interested in: JS/HTML/CSS/C#
 - 🌱 I’m currently learning: JavaScript
 - 💞️ I’m looking to collaborate on: nothing for the moment :D
-- 📫 How to reach me: chroma.java@gmail.com
+- 📫 How to reach me: satoru.github@gmail.com
 - 😄 Pronouns: Sato
 - ⚡ Fun fact: I don't have a fun fact lol 💀
 
